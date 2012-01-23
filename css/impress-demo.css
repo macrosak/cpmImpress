@@ -218,7 +218,7 @@ vertical-align: middle;
 }
 
 #image {
-background-image: url('../../test.png');
+background-image: url('../test.png');
 width: 1605px;
 height: 615px;
 }
