@@ -508,17 +508,10 @@ height: 615px;
     white-space: nowrap;
 }
 
-.inverseslide {
+#overview {
     display: block;
 
-    width: 700px;
-    height: 900px;
-
-    padding: 40px 60px;
-
-    border-radius: 10px;
-
-text-align: center;
+    z-index: -1;
 padding-top: 200px;
 font-family: 'Open Sans', Arial, sans-serif;
 
